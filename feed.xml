@@ -8,7 +8,7 @@
     <link>https://danielzarovy.github.io/castify-office-hours/</link>
     <description>Part college-admissions professional development, part practical tech coaching</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 14:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 16:54:49 +0000</lastBuildDate>
     <atom:link href="https://danielzarovy.github.io/castify-office-hours/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Daniel Zarovy</itunes:author>
     <itunes:summary>Part college-admissions professional development, part practical tech coaching</itunes:summary>
@@ -18,6 +18,16 @@
       <itunes:name>Daniel Zarovy</itunes:name>
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/danielzarovy/castify-office-hours/main/cover-20260503141757.png"/>
+    <item>
+      <title>Office Hours May 3 2026</title>
+      <description>Part college-admissions professional development, part practical tech coaching</description>
+      <pubDate>Sun, 03 May 2026 16:54:49 +0000</pubDate>
+      <enclosure url="https://github.com/danielzarovy/castify-office-hours/releases/download/ep-20260503165434-office-hours-may-3-2026/castify-publish-712c4629-a12d-415e-bbd0-03fd03cf30fe.mp3" length="13164503" type="audio/mpeg"/>
+      <guid isPermaLink="false">5271bb2a-238d-4648-8c70-14d14f33acb4</guid>
+      <itunes:author>Daniel Zarovy</itunes:author>
+      <itunes:duration>13:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Office Hours May 2 2026</title>
       <description>Part college-admissions professional development, part practical tech coaching</description>
