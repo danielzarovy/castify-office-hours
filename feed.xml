@@ -2,22 +2,40 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
   <channel>
     <title>Office Hours</title>
     <link>https://danielzarovy.github.io/castify-office-hours/</link>
     <description>Part college-admissions professional development, part practical tech coaching</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2026 11:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:58:31 +0000</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 10:58:31 +0000</pubDate>
+    <ttl>60</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
     <atom:link href="https://danielzarovy.github.io/castify-office-hours/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Daniel Zarovy</itunes:author>
     <itunes:summary>Part college-admissions professional development, part practical tech coaching</itunes:summary>
+    <itunes:type>episodic</itunes:type>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:owner>
       <itunes:name>Daniel Zarovy</itunes:name>
     </itunes:owner>
     <itunes:image href="https://raw.githubusercontent.com/danielzarovy/castify-office-hours/main/cover-20260503141757.png"/>
+    <item>
+      <title>Office Hours May 6 2026</title>
+      <description>Part college-admissions professional development, part practical tech coaching</description>
+      <pubDate>Wed, 06 May 2026 10:58:31 +0000</pubDate>
+      <enclosure url="https://github.com/danielzarovy/castify-office-hours/releases/download/ep-20260506105822-office-hours-may-6-2026/castify-publish-165ef8c1-67ec-4a7b-8ef4-e4115775e05f.mp3" length="15648015" type="audio/mpeg"/>
+      <guid isPermaLink="false">5a49a467-d7b9-4c62-8637-108306b1fae2</guid>
+      <itunes:author>Daniel Zarovy</itunes:author>
+      <itunes:duration>16:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+    </item>
     <item>
       <title>Office Hours May 5 2026</title>
       <description>Part college-admissions professional development, part practical tech coaching</description>
@@ -27,6 +45,8 @@
       <itunes:author>Daniel Zarovy</itunes:author>
       <itunes:duration>16:50</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
     </item>
     <item>
       <title>Office Hours May 4 2026</title>
@@ -37,6 +57,8 @@
       <itunes:author>Daniel Zarovy</itunes:author>
       <itunes:duration>15:43</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
     </item>
     <item>
       <title>Office Hours May 3 2026</title>
@@ -47,6 +69,8 @@
       <itunes:author>Daniel Zarovy</itunes:author>
       <itunes:duration>12:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
     </item>
   </channel>
 </rss>
